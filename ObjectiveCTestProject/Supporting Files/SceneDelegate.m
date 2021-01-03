@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.m
-//  Test-Project2
+//  ObjectiveCTestProject
 //
 //  Created by Angelina on 04.01.2021.
 //
